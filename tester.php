@@ -15,7 +15,7 @@
 		</div>
 		
 	</div>
-	<h1 id="mercubuana">fasilkom</h1>
+	<h1 id="mercubuana">fasilkom mercu</h1>
 	<h2 id="mercu">aslab</h1>
 	<h1 id="fasilkom">umb</h1>
 
